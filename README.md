@@ -1,6 +1,6 @@
 # Cloudflare Workers Internship Application: Full-Stack
 
-Deployed URL : `https://ayush_submission.arora.workers.dev`
+Deployed URL : [https://ayush_submission.arora.workers.dev](https://ayush_submission.arora.workers.dev)
 
 ## What is it?
 
