@@ -3,6 +3,8 @@
 > Final Submissions
 Deployed URL : [https://ayush_submission.arora.workers.dev](https://ayush_submission.arora.workers.dev)
 
+- All major and extra credit functionality working
+
 ### Rules:
 ---
 ## What is it?
